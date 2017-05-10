@@ -1,0 +1,33 @@
+h1{
+  font-size:70px;
+  color:white;
+text-align:center;
+}
+body {
+  background-color:green;
+}
+
+#quotes {
+ width:30%;
+  height:auto;
+  margin-left:auto;
+  margin-right:auto;
+  padding: 10px;
+  background: pink;
+  border-radius: 40px;
+}
+
+.footer {
+  width:450px;
+  text-align:center;
+  display:block;
+  margin:15px auto 30px auto;
+  font-size:1.10em;
+  color:#fff;
+  a {
+    font-weight:500;
+    text-decoration:none;
+    color:#fff;
+  }
+
+
